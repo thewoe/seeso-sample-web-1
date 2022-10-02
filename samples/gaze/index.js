@@ -5,7 +5,7 @@ import showGaze from "../showGaze";
 // npm module
 import EasySeeSo from 'seeso/easy-seeso';
 
-const licenseKey = 'YOUR_LICENSE_KEY_HERE'; // Issue license key! -> https://console.seeso.io
+const licenseKey = 'dev_3k696p039vb0kwghofume15k11n8i8s98fmqpdg6'; // Issue license key! -> https://console.seeso.io
 
 // gaze callback.
 function onGaze(gazeInfo) {
